@@ -1,5 +1,6 @@
 # Demo
 ## Overview
 ### Features
-- user friendly
+- Feature 1
+- Feature 2
 
